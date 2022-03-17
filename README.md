@@ -1,2 +1,2 @@
-# taller
+# Proyecto 
 Repositorio del proyecto 
